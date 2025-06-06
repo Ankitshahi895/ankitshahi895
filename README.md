@@ -8,7 +8,7 @@ I'm a passionate web developer with experience in building interactive and engag
 - **Programming Languages**: Java, C, Python
 - **Web Development**: HTML5, CSS, JavaScript
 - **Frameworks**: Django, Spring Boot
-- **Databases**: MySQL, SQLite
+- **Databases**: MySQL
 
 ---
 
