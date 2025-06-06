@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate web developer with experience in building interactive and engaging web applications. Currently pursuing my **Master of Computer Applications** at KIET Group of Institutions (Graduating June 2026) and a **Bachelor of Computer Applications** from Birla Institute of Technology, Mesra (Graduating August 2024). 
+I'm a passionate web developer with experience in building interactive and engaging web applications. Currently pursuing my **Master of Computer Applications** at KIET Group of Institutions (Graduating June 2026) and a **Bachelor of Computer Applications** from Birla Institute of Technology, Mesra (Graduated 2024). 
 
 ### 🔧 Skills & Technologies:
 - **Programming Languages**: Java, C, Python
@@ -27,7 +27,6 @@ I'm a passionate web developer with experience in building interactive and engag
 ### **Snipe & Strike** (Feb 2025 - May 2025)
 - Built a browser-based 2D shooting game using **HTML5 Canvas** and **JavaScript**, enhancing gameplay and boosting user engagement by **35%**.
 - Developed a backend with **Spring Boot**, **Spring Security**, and **MySQL**, implementing secure user authentication and real-time score updates.
-- Integrated **RESTful APIs** and **JWT-based authentication**, reducing server load by **40%**.
 
 ### **Speech-to-Indian-Sign-Language** (Oct 2024 - Dec 2024)
 - Designed a web interface using **HTML5**, **CSS**, and **JavaScript**, improving accessibility for hearing-impaired users.
