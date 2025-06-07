@@ -7,7 +7,7 @@ I'm a passionate web developer with experience in building interactive and engag
 ### 🔧 Skills & Technologies:
 - **Programming Languages**: Java, C, Python
 - **Web Development**: HTML5, CSS, JavaScript
-- **Frameworks**: Django, Spring Boot
+- **Frameworks**: Django, Spring Boot, React
 - **Databases**: MySQL
 
 ---
