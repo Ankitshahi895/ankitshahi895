@@ -68,3 +68,7 @@ I'm a passionate web developer with experience in building interactive and engag
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ankitshahi895&color=blue)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitshahi895&theme=radical&hide_border=true"/>
+</p>
