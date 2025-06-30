@@ -62,13 +62,14 @@ I'm a passionate web developer with experience in building interactive and engag
 
 ## 📊 GitHub Stats:
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitshahi895&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitshahi895&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitshahi895&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitshahi895&layout=compact&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitshahi895&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ankitshahi895&color=blue)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitshahi895&theme=radical&hide_border=true"/>
-</p>
